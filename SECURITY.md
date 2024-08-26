@@ -6,7 +6,7 @@ We take security seriously and are dedicated to maintaining a secure project. Yo
 
 If you discover a security vulnerability in this project, please follow these steps to report it:
 
-1. **Create a Private Security Issue**: [Submit a private security issue](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability). This ensures that your report is only visible to the maintainers.
+1. **Create a Private Security Issue**: Submit a [private security issue](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability). This ensures that your report is only visible to the maintainers.
 2. **Provide Detailed Information**: Include as much detail as possible in your report:
    - A clear description of the vulnerability
    - Steps to reproduce the issue
