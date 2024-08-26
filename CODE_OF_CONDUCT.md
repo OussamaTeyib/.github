@@ -1,14 +1,14 @@
 # Contributor Covenant Code of Conduct
 
-## My Pledge
+## Our Pledge
 
-As a member and maintainer of this project, I pledge to make participation in this community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+As members and maintainers of this project, we pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-I pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## My Standards
+## Our Standards
 
-Examples of behavior that contributes to a positive environment include:
+Examples of behavior that contribute to a positive environment include:
 
 - Demonstrating empathy and kindness toward others
 - Being respectful of differing opinions, viewpoints, and experiences
@@ -26,15 +26,15 @@ Examples of unacceptable behavior include:
 
 ## Enforcement Responsibilities
 
-I am responsible for clarifying and enforcing standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that I deem inappropriate, threatening, offensive, or harmful.
+We are responsible for clarifying and enforcing standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that we deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces related to this project, as well as in public spaces when an individual is representing the project or its community.
+This Code of Conduct applies within all community spaces related to this project, as well as in public spaces when individuals are representing the project or its community.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to me at [INSERT CONTACT METHOD]. All complaints will be reviewed and investigated promptly and fairly. I am obligated to respect the privacy and security of the reporter of any incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to us at oussama.teyib@gmail.com. All complaints will be reviewed and investigated promptly and fairly. We are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Attribution
 
