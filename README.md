@@ -1,2 +1,2 @@
 # .github
-Community health files
+Community health files for my personal account.
