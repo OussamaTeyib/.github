@@ -6,7 +6,7 @@ Thank you for considering contributing to this project. Your help is essential f
 
 Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the project's open source license.
 
-Please note that this project is governed by a Contributor Code of Conduct. By participating, you agree to abide by its terms.
+Please note that this project is governed by a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to abide by its terms.
 
 ## Submitting a Pull Request
 
