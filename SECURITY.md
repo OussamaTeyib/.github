@@ -14,7 +14,3 @@ If you discover a security vulnerability in this project, please follow these st
    - Any relevant code or logs
 
 We will address the issue as soon as possible. If you are able to fix the issue yourself, you are welcome to submit a pull request with your fix.
-
-## Acknowledgements
-
-Thank you for helping to keep this project secure. Your contributions are valuable and appreciated.
